@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const titulo = document.getElementById("h1");
 const listaNaoOrdenada = document.querySelector("ul");
 const link = document.querySelector("a");
@@ -21,3 +22,11 @@ target="_blank">Wikipedia</a></li>
     <li><a
 href="https://www.github.com"
 target="_blank">GitHub</a></li>`;
+=======
+function conexaoFeita() {
+    console.log("Conexão feita com sucesso!");
+}
+conexaoFeita();
+conexaoFeita();
+conexaoFeita();
+>>>>>>> c4940cf904714ebede011dc94846061a443e1361
